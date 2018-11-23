@@ -36,7 +36,7 @@ The decrypted file is outputed to the "plaintexts" folder. Usage example:
 
 > python Decrypt.py fotiou@example.com Hello_world.txt
 
-### Re-encryption key generation\
+### Re-encryption key generation
 A re-encryption key is used for re-encrypting a ciphertext generated using an identifier
 A such that it can be decrypted using the private key that corresponds to an 
 identifier B. An example of a re-encryption key generation follows.
